@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Mathe/Analysis  ",
+      "color": {
+        "a": 1,
+        "rgb": 10518142
+      }
+    },
+    {
+      "query": "path:Mathe/Stochastik  ",
+      "color": {
+        "a": 1,
+        "rgb": 13482904
+      }
+    },
+    {
+      "query": "path:\"Mathe/Analytische Geometrie\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10068614
+      }
+    },
+    {
+      "query": "file:Mathe",
+      "color": {
+        "a": 1,
+        "rgb": 65484
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.688671875,
+  "lineSizeMultiplier": 1.94388020833333,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.08814713876992167,
+  "close": false
+}

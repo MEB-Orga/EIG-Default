@@ -1,0 +1,315 @@
+{
+  "main": {
+    "id": "3c9924b7ee77e624",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ab9086cd49bc655",
+        "type": "tabs",
+        "dimension": 72.56385998107852,
+        "children": [
+          {
+            "id": "5c4ae7799f81a777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physik/Physik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physik"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6d9d176b38ce0caf",
+        "type": "tabs",
+        "dimension": 27.436140018921474,
+        "children": [
+          {
+            "id": "38e0fbaf164d74e1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Physik/Physik.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224423,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Physik"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10f461d787b5251f",
+    "type": "split",
+    "children": [
+      {
+        "id": "745cb7994bc18b7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0e515ccb0461c9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cadf6883449e7189",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5e4c7c05163bcfef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 391.5
+  },
+  "right": {
+    "id": "bd54434a996645f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6e3bc41b6fd30b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4b4e7b25c1b3c60",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mathe/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "b0bf86f4d2f8675f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mathe/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "5c46ddbdff550add",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ad0f941566a6a0db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mathe/Untitled.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "411336eb868837fa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "dbd00c4c61470198",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "60df11023c17ef29",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "d614a1654963ae8d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "b18919240dacec46",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "random-note:Open random note": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-kanban:Create new board": false,
+      "webpage-html-export:Export as HTML": false
+    }
+  },
+  "active": "5c4ae7799f81a777",
+  "lastOpenFiles": [
+    "Mathe/Analysis/Integrale/Ober- und Untersumme.md",
+    "Mathe/Analysis/Integrale/Bestimmtes Integral.md",
+    "Mathe/Analysis/Integrale/Flächenbilanz.md",
+    "Mathe/Analysis/Integrale/Delta X (dx).md",
+    "Mathe/Analysis/Integrale/Stammfunktion.md",
+    "Mathe/Analysis/Integrale/Elementare Stammfunktionen.md",
+    "Mathe/Analysis/Integrale/Stammfunktion Regeln.md",
+    "Mathe/Analysis/Integrale/Hauptsatz der Differential- und Integralrechnung.md",
+    "Mathe/Analysis/Integrale/Rechenregeln.md",
+    "Mathe/Analysis/Integrale/Mittelwert.md",
+    "Mathe/Analysis/Integrale/Uneigentliches Integral.md",
+    "Mathe/Analysis/Integrale/Fläche zwischen zwei Graphen.md",
+    "Mathe/Analysis/Integrale/Rotationskörper.md",
+    "Mathe/Analytische Geometrie/Vektoren/Vektorenrechnung im zwei- und dreidimensionalen Raum.md",
+    "Mathe/Analytische Geometrie/Vektoren/Vektoren ermitteln und Länge berechnen.md",
+    "Mathe/Analytische Geometrie/Vektoren/Kollinearität.md",
+    "Mathe/Analytische Geometrie/Geraden/Parametergleichung einer Gerade im Raum.md",
+    "Mathe/Analytische Geometrie/Geraden/Spurpunkte.md",
+    "Mathe/Analytische Geometrie/Geraden/Othogonalität.md",
+    "Mathe/Analytische Geometrie/Geraden/Skalarprodukt (DotProduct).md",
+    "Mathe/Analytische Geometrie/Vektoren/Winkel zwischen zwei Vektoren.md",
+    "Mathe/Analytische Geometrie/Geraden/Winkel zwischen zwei Geraden.md",
+    "Mathe/Analytische Geometrie/Geraden/Geraden im Raum.md",
+    "Mathe/Analytische Geometrie/Ebenen/Vektoren- und Kreuzprodukt (CrossProduct).md",
+    "Mathe/Analytische Geometrie/Ebenen/Normalvektor.md",
+    "Mathe/Analytische Geometrie/Ebenen/Verschiedene Darstellungsformen von Ebenen.md",
+    "Untitled",
+    "Untitled.canvas",
+    "Physik/Ladungen, Felder und Induktion/Statisches elektrisches Feld/Untitled",
+    "Physik/Spezielle Relativitätstheorie/Untitled",
+    "Erdkunde/Ein Welt - große Unterschiede/Welthandel und Handelsbeziehungen",
+    "Erdkunde/Ein Welt - große Unterschiede/Transformationsprozesse",
+    "Erdkunde/Ein Welt - große Unterschiede/Unterentwicklung in der Theorie",
+    "Erdkunde/Ein Welt - große Unterschiede/Entwicklungsstände von Ländern",
+    "Erdkunde/Ein Welt - große Unterschiede/Bevölkerung",
+    "Erdkunde/Ein Welt - große Unterschiede",
+    "Erdkunde/Urbane Räume/Stadtplanerische und raumordnerische Leitbilder"
+  ]
+}
